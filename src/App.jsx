@@ -1,2 +1,0 @@
-//App è il componente padre, l'unico chiamato da main.jsx, cheavvia la renderizzazione dei componenti fig
-// UN FILE JSX CHE COMINCIA PER MAIUSCOLA O SEGUE LA NOMENCLATURA CapitalCase o Pascal è per definizione un REACT!
